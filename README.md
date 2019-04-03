@@ -1,4 +1,4 @@
-# Randomly get unique item from array
+# Package for parsing numbers from any string
 
 
 
