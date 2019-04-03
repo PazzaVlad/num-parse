@@ -1,6 +1,8 @@
 # Package for parsing numbers from any string
 
-Parse number from any string if it's possible
+Parse number from any string if it's possible. 
+
+Works in Node.js and browsers.
 
 ## Usage
 
@@ -27,7 +29,6 @@ numParse(undefined) // -> NaN
 numParse(null) // -> NaN
 
 ```
-
 
 ## License
 

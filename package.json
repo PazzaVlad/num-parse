@@ -1,6 +1,6 @@
 {
   "name": "num-parse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Package for parsing numbers from any string",
   "main": "index.js",
   "repository": "https://github.com/PazzaVlad/num-parse",
