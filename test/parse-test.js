@@ -1,6 +1,6 @@
 const assert = require('assert').strict
 
-const numParse = require('./../libs/parse')
+const numParse = require('./../index')
 
 describe('Tests', function() {
   it('parse from string', function() {

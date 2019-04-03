@@ -12,7 +12,10 @@
   "keywords": [
     "parse",
     "number",
-    "int"
+    "int",
+    "number parsing",
+    "parse integer",
+    "parse float"
   ],
   "author": "Vlad Harb",
   "license": "MIT"
