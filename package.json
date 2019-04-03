@@ -1,0 +1,19 @@
+{
+  "name": "num-parse",
+  "version": "1.0.0",
+  "description": "Package for parsing numbers from any string",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "parse",
+    "number",
+    "int"
+  ],
+  "author": "Vlad Harb",
+  "license": "MIT"
+}
